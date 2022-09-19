@@ -12,4 +12,6 @@ printf("Element : %d\n", ptr->data);
 ptr = ptr-> next
 }
 }
-int main 
+int main ()
+(
+struct Node* head;
